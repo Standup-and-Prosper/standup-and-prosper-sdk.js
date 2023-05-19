@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Teaminator/standup-and-prosper-sdk.js"
+    "url": "git+https://github.com/Standup-And-Prosper/standup-and-prosper-sdk.js"
   },
   "keywords": [
     "standups",
@@ -51,12 +51,12 @@
     "slack bot",
     "slack app"
   ],
-  "author": "Rhosys Developers <developers@rhosys.ch> (https://rhosys.ch)",
+  "author": "Standup & Prosper Developers <developers@standup-and-prosper.com> (https://standup-and-prosper.com)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Teaminator/standup-and-prosper-sdk.js/issues"
+    "url": "https://github.com/Standup-And-Prosper/standup-and-prosper-sdk.js/issues"
   },
-  "homepage": "https://standup.teaminator.io",
+  "homepage": "https://standup-and-prosper.com",
   "engines": {
     "node": ">=12.19.0"
   }
